@@ -46,7 +46,7 @@ search.addEventListener('click',function(){
                 break;
 
             case 'Rain':
-                image.src = 'imagens/rain.png';
+                image.src = 'imagens/rain (1).png';
                 break;
 
             case 'Snow':
